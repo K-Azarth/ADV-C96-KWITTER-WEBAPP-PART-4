@@ -1,5 +1,4 @@
 var firebaseConfig = {
-    var firebaseConfig = {
         apiKey: "AIzaSyA_Y2omTngPANEyKLPyqKVWZiKoGqDTvcM",
         authDomain: "twitter-bots-7141b.firebaseapp.com",
         databaseURL: "https://twitter-bots-7141b-default-rtdb.firebaseio.com",
@@ -7,7 +6,6 @@ var firebaseConfig = {
         storageBucket: "twitter-bots-7141b.appspot.com",
         messagingSenderId: "740132371729",
         appId: "1:740132371729:web:6e241aecf25862a6ea60b0"
-    };
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
